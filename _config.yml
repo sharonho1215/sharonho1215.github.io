@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Sharon Ho"
-  pronouns         : "she/her"
+  pronouns         : # she/her
   bio              : "6th year medical student with MEng with an interest in AI in Medicine"
   location         : "Cambridge"
   employer         : "University of Cambridge"
