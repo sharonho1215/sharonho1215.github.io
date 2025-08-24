@@ -20,9 +20,6 @@ Work experience
 
 * September 2023 – present:  Developing a signal quality assessment tool for single lead ECGs 
   * Developed a tool to assess the signal quality of hand-held ECGs through using state-of-the-art QRS detection algorithms and signal processing techniques. This will contribute to automated atrial fibrillation detection
-  * Sharon Yuen Shan HO, Florian Kristof, Jonathan Mant, Peter H. Charlton (2024 May). Automated telehealth electrocardiogram analysis to derive accurate RR intervals. Poster presentation at Medical Women’s Federation Spring Conference 2024.
-  * Sharon Yuen Shan HO, Florian Kristof, Jonathan Mant, Peter H. Charlton (2024 Sept). Automated RR Interval Detection and Quality Assessment in Telehealth Electrocardiograms. Poster presentation at Computing in Cardiology 2024.
-
   * Supervisor: Dr Peter Charlton, Department of Public Health and Primary Care, University of Cambridge
 
 * October 2022 – March 2023 Cambridge MedTech Foundation Innovation Programme
@@ -34,9 +31,10 @@ Work experience
   * Supervisor: Dr Flavia Mancini, Department of Engineering, University of Cambridge
 
 * March 2022 – Oct 2022 Student Member of Cambridge iGEM 2022
-  * Develop an antithetic integral controller through applying control theory to synthetic biology, to reduce steady state error of the system in response to perturbation. 
-  * I am involved in both conducting lab work with Golden Gate cloning, with plate reader and mother machine experiments, applying the control theory toolbox to analyse our system, Wiki design, Education & Outreach, social media management, Human Practices and presentation of our work at the Jamboree. 
-  * We won the Gold Medal and was nominated for the Best New Basic Part special award.
+  * Develop an antithetic integral controller through applying control theory to synthetic biology, to reduce steady state error of the system in response to perturbation 
+  * I am involved in both conducting lab work with Golden Gate cloning, with plate reader and mother machine experiments, applying the control theory toolbox to analyse our system, Wiki design, Education & Outreach, social media management, Human Practices and presentation of our work at the Jamboree
+  * We won the Gold Medal and was nominated for the Best New Basic Part special award
+  * [Visit our Wiki!](https://2022.igem.wiki/cambridge/index.html)
 
 * June 2021 – Sept 2021 Research Assistant at City University of Hong Kong
   * Supervisor: Dr Chung Tin, Department of Biomedical Engineering, City University of Hong KOng
