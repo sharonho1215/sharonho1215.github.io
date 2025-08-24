@@ -24,12 +24,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Sharon Ho"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : "she/her"
+  bio              : "6th year medical student with MEng with an interest in AI in Medicine"
   location         : "Cambridge"
   employer         : "University of Cambridge"
   uri              : # URL
-  email            : "potassiumsharon@gmail.com" 
+  email            : "ysh25@cam.ac.uk" 
 
   # Academic websites
   academia         : # URL
@@ -37,7 +37,7 @@ author:
   googlescholar    : #
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0001-8139-3074"
   semantic         : # URL
   pubmed           : #
   scopus           : # URL
@@ -61,7 +61,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : sharon-ho-a260a1192
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username

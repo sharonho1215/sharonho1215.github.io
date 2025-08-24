@@ -43,8 +43,8 @@ Work experience
   * Skills: CRISPR knockout, Cell culture, Western blot, Gel electrophoresis, cloning
 
 * July 2020 – Dec 2020 Intern in MedEd Lab Hong Kong
-  * Working in Dr Christopher See’s MedEd Lab in Hong Kong for a project to improve students’ learning experience for Anatomy.
-  * HO Yuen Shan, SEE Christopher (2020 December). Instagram stories for teaching human anatomy: Possibilities and issues for the COVID-19 era. Poster presentation at elearning Forum Asia 2020, Hong Kong.
+  * Improve students’ learning experience for Anatomy using instagram stories
+  * Supervisor: Dr Christopher See, MedEd Lab, Chinese University of Hong Kong
 
 
 Skills
