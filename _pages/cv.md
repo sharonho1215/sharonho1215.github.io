@@ -11,26 +11,16 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* MBBChir, University of Cambridge, 2026 (expected)
+* MEng in Bioengineering and Information Engineering, University of Cambridge, 2023
+* BA, University of Cambridge
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* September 2023 – present:  Developing a signal quality assessment tool for single lead ECGs 
+  * Developed a tool to assess the signal quality of hand-held ECGs through using state-of-the-art QRS detection algorithms and signal processing techniques. This will contribute to automated atrial fibrillation detection
+  * Supervisor: Dr Peter Charlton, Department of Public Health and Primary Care, University of Cambridge
   
 Skills
 ======
