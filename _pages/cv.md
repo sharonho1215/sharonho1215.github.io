@@ -18,6 +18,11 @@ Education
 Work experience
 ======
 
+* June 2025 – present Developing a prognostic tool for acute decompensated heart failure 
+  * To develop a tool to predict 7-day mortality with heart rate variability
+  * Utilised data cleaning and modelling strategies
+  * Supervisor: Prof Marcus Ong, Duke-NUS, Singapore
+
 * September 2023 – present:  Developing a signal quality assessment tool for single lead ECGs 
   * Developed a tool to assess the signal quality of hand-held ECGs through using state-of-the-art QRS detection algorithms and signal processing techniques. This will contribute to automated atrial fibrillation detection
   * Supervisor: Dr Peter Charlton, Department of Public Health and Primary Care, University of Cambridge
