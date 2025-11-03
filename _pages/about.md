@@ -1,10 +1,10 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Sharon Ho, combining Engineering and Medicine"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-I am Sharon Ho, a 6th year medical student with MEng in University of Cambridge with an interest in MedTech, synthetic biology and AI in Medicine. I hope to combine Medicine and Engineering.
+I am Sharon Ho, a 6th year medical student with MEng in University of Cambridge with an interest in MedTech, synthetic biology and AI in Medicine. I am in a unique position where I can read both the medical language and the engineering language. I hope to combine Medicine and Engineering to transform healthcare. 
 

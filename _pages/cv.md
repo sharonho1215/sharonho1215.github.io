@@ -13,7 +13,7 @@ Education
 ======
 * MBBChir, University of Cambridge, 2026 (expected)
 * MEng in Bioengineering and Information Engineering, University of Cambridge, 2023
-* BA, University of Cambridge
+* BA, University of Cambridge, 2023
 
 Work experience
 ======
