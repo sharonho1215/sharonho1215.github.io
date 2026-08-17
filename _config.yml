@@ -25,11 +25,11 @@ author:
   avatar           : "linkedinpropic.jpeg"
   name             : "Sharon Ho"
   pronouns         : # she/her
-  bio              : "6th year medical student with MEng with an interest in AI in Medicine"
+  bio              : "FY1 Doctor with MEng with an interest in AI in Medicine"
   location         : "Cambridge"
-  employer         : "University of Cambridge"
+  employer         : "Addenbrooke's Hospital"
   uri              : # URL
-  email            : "ysh25@cam.ac.uk" 
+  email            : "ysh25@cantab.ac.uk" 
 
   # Academic websites
   academia         : # URL
