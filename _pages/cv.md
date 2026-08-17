@@ -11,29 +11,48 @@ redirect_from:
 
 Education
 ======
-* MBBChir, University of Cambridge, 2026 (expected)
+* MB, BChir, University of Cambridge, 2026
+* MA, University of Cambridge, 2026
 * MEng in Bioengineering and Information Engineering, University of Cambridge, 2023
 * BA, University of Cambridge, 2023
 
-Work experience
+Project/Work experience
 ======
+* August 2026 - present FY1 Doctor in Addenbrooke's Hospital
+  * Rotation 1: Hepatology
 
-* June 2025 – present Developing a prognostic tool for acute decompensated heart failure 
+* June 2025 – July 2025 Developing a prognostic tool for acute decompensated heart failure 
   * To develop a tool to predict 7-day mortality with heart rate variability
   * Utilised data cleaning and modelling strategies
   * Supervisor: Prof Marcus Ong, Duke-NUS, Singapore
+  * <a href="../talks/icem2026">Conference Presentation</a>
 
-* September 2023 – present:  Developing a signal quality assessment tool for single lead ECGs 
+* January 2025 - now Bayesian Hierarchial Models on rare neurological diseases
+  * Develop a Bayesian hierarchial model on brain thickness and volume on rare neurological diseases
+  * Exploration of using the Bayesian approach instead of the traditional frequentist approach
+  * Supervisor: Dr Timothy Rittman
+
+* April 2024 - October 2025 Systematic review and meta-analysis of AI software for LVO detection
+  * Undergo and systematic review and meta-analysis on the performance of AI software for LVO detection
+  * Responsible for data collection, data cleaning and subsequent data analysis
+  * Supervisor: Dr Abhi Ashok
+  * <a href="../talks/esnr2025">Conference Presentation</a>
+
+* September 2023 – September 2024:  Developing a signal quality assessment tool for single lead ECGs 
   * Developed a tool to assess the signal quality of hand-held ECGs through using state-of-the-art QRS detection algorithms and signal processing techniques. This will contribute to automated atrial fibrillation detection
   * Supervisor: Dr Peter Charlton, Department of Public Health and Primary Care, University of Cambridge
+  * <a href="../talks/cinc2024">Conference Presentation</a> and <a href="../publication/cinc2024-paper">Conference Paper</a>
+  * <a href="../talks/mwf2024">Conference Presentation</a>
 
 * October 2022 – March 2023 Cambridge MedTech Foundation Innovation Programme
   * Developing an alternative non-invasive solution to the pulmonary artery catheter, a device used for advanced haemodynamic monitoring including ‘continuous’ cardiac output monitoring, across several patient groups and broad indications. 
   * In the project, I am in charge in looking into the technical aspects of the device. After finishing with the Innovation Programme, our team took it one step further to join the Parmee Prize organised by Pembroke College and we finished as one of the finalists. 
 
 * August 2022 – June 2023 Masters Project: Understanding Temporal Structure of Pain
-  * To understand the temporal structure of pain through designing an online pain tracking task for patients with chronic back pain using PsychoPy/PsychoJS and subsequent analysis of data with focus on correlation analysis, entropy, fractal dimension analysis and mathematical modelling
+  * To understand the temporal structure of pain through designing an online pain tracking task for patients with chronic back pain using PsychoPy/PsychoJS
+  * Subsequent analysis of data with focus on correlation analysis, entropy, fractal dimension analysis and mathematical modelling
   * Supervisor: Dr Flavia Mancini, Department of Engineering, University of Cambridge
+  * <a href="../publication/pain-paper">Paper</a>
 
 * March 2022 – Oct 2022 Student Member of Cambridge iGEM 2022
   * Develop an antithetic integral controller through applying control theory to synthetic biology, to reduce steady state error of the system in response to perturbation 
@@ -42,14 +61,15 @@ Work experience
   * [Visit our Wiki!](https://2022.igem.wiki/cambridge/index.html)
 
 * June 2021 – Sept 2021 Research Assistant at City University of Hong Kong
-  * Supervisor: Dr Chung Tin, Department of Biomedical Engineering, City University of Hong KOng
   * Project 1: Establishment of human brain tumour xenografts in immunodeficient mice for testing nanodiamond as a drug delivery carrier
   * Project 2: CRISPR-mediated gene knockout for mechanistic studies of intracellular crosstalk between 3D printed Schwann-lung cancer cells
   * Skills: CRISPR knockout, Cell culture, Western blot, Gel electrophoresis, cloning
+  * Supervisor: Dr Chung Tin, Department of Biomedical Engineering, City University of Hong Kong
 
 * July 2020 – Dec 2020 Intern in MedEd Lab Hong Kong
   * Improve students’ learning experience for Anatomy using instagram stories
   * Supervisor: Dr Christopher See, MedEd Lab, Chinese University of Hong Kong
+  * <a href="../talks/elf2020">Conference Presentation</a>
 
 
 Skills
@@ -75,8 +95,19 @@ Talks
   
 Service and leadership
 ======
+* 2025 - 2026 Events Officier of Cambridge Health Futures Conference
+  * First student conference focusing on MedTech and AI in Cambridge, a 2-day event with over 150 attendees, 18 speakers and 6 workshops
+  * Responsible for organising workshops during the conference
+  * Developed leadership and collaborative skills with other committee members
 * 2023 – 2024 President of Cambridge AI in Medicine Society
-  * Responsible for leading and organising various events of the society, including running workshops for introduction to coding and machine learning in healthcare. I am also in charge in securing collaboration opportunities with other societies, bringing more variety to the society. We are also advocating for the inclusion of AI in the medical curriculum to ensure future clinicians are familiar with the basic principles of AI.
+  * Responsible for leading and organising various events of the society, including running workshops for introduction to coding and machine learning in healthcare
+  * In charge of securing collaboration opportunities with other societies, bringing more variety to the society
+  * Advocating for the inclusion of AI in the medical curriculum to ensure future clinicians are familiar with the basic principles of AI
 * 2022 – 2025 Treasurer of Cambridge University Synthetic Biology Society
-  * Responsible for managing the Cambridge University Synthetic Biology Society's bank account, keeping track of the expenses and holding computational workshops for society members. I am also in charge of maintaining the society's social media and part of the organising committee and instructor of Cambridge iGEM Team. Our commitment to organise Cambridge iGEM has been shortlisted for the Student Award (Campaign Impact) 2023.
+  * Responsible for managing the Cambridge University Synthetic Biology Society's bank account, keeping track of the expenses and holding computational workshops for society members. 
+  * I am also in charge of maintaining the society's social media and part of the organising committee and instructor of Cambridge iGEM Team. 
+  * Our commitment to organise Cambridge iGEM has been shortlisted for the Student Award (Campaign Impact) 2023.
+* 2023-2025 Cambridge iGEM Team instructor
+  * Responsible for giving advice (medical and modelling advice) for the Cambridge iGEM Team
+  * Responsible for team selection and team building
 

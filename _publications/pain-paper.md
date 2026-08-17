@@ -2,7 +2,7 @@
 title: "Short-term variability of chronic musculoskeletal pain"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-09-11-short-term-variability-of-chronic-musculoskeletal-pain
+permalink: /publication/pain-paper
 excerpt: 'This paper is about the temporal structure of pain in chronic pain patients and how it correlates to clinical severity'
 date: 2025-09-11
 venue: 'Frontiers in Pain Research Methods'
