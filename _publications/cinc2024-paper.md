@@ -2,7 +2,7 @@
 title: "Automated RR Interval Detection and Quality Assessment in Telehealth Electrocardiograms"
 collection: publications
 category: conferences
-permalink: /publication/cinc2024-paper
+permalink: /publications/cinc2024-paper
 excerpt: 'This paper is about the development of a quality assessment tool for single-lead ECGs'
 date: 2024-12-20
 venue: 'Computing in Cardiology 2024'

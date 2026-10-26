@@ -2,7 +2,7 @@
 title: "Time to surgery and its impact on length of stay and mortality for neck of femur fractures at a major trauma centre"
 collection: publications
 category: manuscripts
-permalink: /publication/ortho-2026-paper
+permalink: /publications/ortho-2026-paper
 excerpt: 'This paper is about the relationship between the length to surgery and time of stay in the context of trauma'
 date: 2026-08-24
 venue: 'European Journal of Trauma and Emergency Surgery'
