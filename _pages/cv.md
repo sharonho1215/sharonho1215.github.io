@@ -65,8 +65,8 @@ Research experience
 
 <b>Innovation</b>
 * October 2022 – March 2023: Cambridge MedTech Foundation Innovation Programme
-  * Developing an alternative non-invasive solution to the pulmonary artery catheter, a device used for advanced haemodynamic monitoring including ‘continuous’ cardiac output monitoring, across several patient groups and broad indications. 
-  * I led the technical aspects of the design of the device. After finishing with the Innovation Programme, our team took it one step further to join the Parmee Prize organised by Pembroke College and we finished as one of the finalists. 
+  * Developed an alternative non-invasive solution to the pulmonary artery catheter, a device used for advanced haemodynamic monitoring including ‘continuous’ cardiac output monitoring, across several patient groups and broad indications. 
+  * Nominated as the finalists of Parmee Prize organised by Pembroke College, University of Cambridge
 
 * July 2020 – Dec 2020: Using technology to improve student's learning experiences (Supervisor: Dr Christopher See, MedEd Lab, Chinese University of Hong Kong)
   * Improved students’ learning experience for Anatomy using instagram stories
@@ -117,19 +117,19 @@ Talks
   
 Service and leadership
 ======
-* 2025 - 2026 Events Officer of Cambridge Health Futures Conference
-  * First student conference focusing on MedTech and AI in Cambridge, a 2-day event with over 150 attendees, 18 speakers and 6 workshops
-  * Responsible for organising workshops during the conference
+* 2025 - 2026: Events Officer of Cambridge Health Futures Conference
+  * Organised the first student conference focusing on MedTech and AI in Cambridge, a 2-day event with over 150 attendees, 18 speakers and 6 workshops
   * Developed leadership and collaborative skills with other committee members
-* 2023 – 2024 President of Cambridge AI in Medicine Society
-  * Responsible for leading and organising various events of the society, including running workshops for introduction to coding and machine learning in healthcare
-  * In charge of securing collaboration opportunities with other societies, bringing more variety to the society
-  * Advocating for the inclusion of AI in the medical curriculum to ensure future clinicians are familiar with the basic principles of AI
-* 2022 – 2025 Treasurer of Cambridge University Synthetic Biology Society
-  * Responsible for managing the Cambridge University Synthetic Biology Society's bank account, keeping track of the expenses and holding computational workshops for society members. 
-  * I am also in charge of maintaining the society's social media and part of the organising committee and instructor of Cambridge iGEM Team. 
+* 2023 – 2024: President of Cambridge AI in Medicine Society
+  * Led and organised various events of the society, including running workshops for introduction to coding and machine learning in healthcare
+  * Secured collaboration opportunities with other societies
+  * Advocated for the inclusion of AI in the medical curriculum to ensure future clinicians are familiar with the basic principles of AI
+* 2022 – 2025: Treasurer of Cambridge University Synthetic Biology Society
+  * Managed the Cambridge University Synthetic Biology Society's bank account, kept track of the expenses and held computational workshops for society members. 
+  * Maintained the society's social media 
   * Our commitment to organise Cambridge iGEM has been shortlisted for the Student Award (Campaign Impact) 2023.
-* 2023-2025 Cambridge iGEM Team instructor
-  * Responsible for giving advice (medical and modelling advice) for the Cambridge iGEM Team
-  * Responsible for team selection and team building
+* 2023-2025: Cambridge iGEM Team instructor
+  * Organised the Cambridge iGEM Team with other instructors 
+  * Organised team selection and team building
+  * Provide medical and computational modelling advice for the Cambridge iGEM Team
 
