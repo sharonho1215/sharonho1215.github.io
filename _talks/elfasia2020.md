@@ -10,6 +10,6 @@ location: "Hong Kong"
 
 Poster presentation of my project on improving students’ learning experience for Anatomy using Instagram.
 
-HO Yuen Shan, SEE Christopher (2020 December). Instagram stories for teaching human anatomy: Possibilities and issues for the COVID-19 era. Poster presentation at elearning Forum Asia 2020, Hong Kong.
+<b>HO Yuen Shan</b>, SEE Christopher (2020 December). Instagram stories for teaching human anatomy: Possibilities and issues for the COVID-19 era. Poster presentation at elearning Forum Asia 2020, Hong Kong.
 
 <a href="http://elfasia.org/2020/wp-content/uploads/2020/12/017_Poster.pdf">Link to poster</a> 
